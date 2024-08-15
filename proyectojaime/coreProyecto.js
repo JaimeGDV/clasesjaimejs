@@ -9,6 +9,9 @@ class Producto{
     }
 }
 
+// array de productos
+
+
 // Array de productos base
 const productosBase = [
     {
