@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 445.94 246.19">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #908ec5;
+      }
+
+      .cls-4 {
+        letter-spacing: .06em;
+      }
+
+      .cls-2 {
+        font-family: Montserrat-ExtraLight, Montserrat;
+        font-size: 115.44px;
+        font-weight: 200;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: .07em;
+      }
+
+      .cls-3 {
+        font-family: Montserrat-ExtraBold, Montserrat;
+        font-size: 90px;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(20.06 98.47)"><tspan class="cls-4" x="0" y="0">C</tspan><tspan class="cls-6" x="71.82" y="0">ORE</tspan></text>
+  <text class="cls-2" transform="translate(8.05 210.44)"><tspan x="0" y="0">B</tspan><tspan class="cls-7" x="86.58" y="0">e</tspan><tspan x="153.08" y="0">au</tspan><tspan class="cls-5" x="296.69" y="0">t</tspan><tspan x="340.79" y="0">y</tspan></text>
+  <path class="cls-1" d="m368.3,2.93c0,32.81-6.8,42.03-30.96,42.03,24.16,0,30.96,9.23,30.96,42.03,0-32.81,6.8-42.03,30.96-42.03-24.16,0-30.96-9.23-30.96-42.03Z"/>
+  <path class="cls-1" d="m417.36,87.38c0,20.48-4.09,26.24-18.62,26.24,14.53,0,18.62,5.76,18.62,26.24,0-20.48,4.09-26.24,18.62-26.24-14.53,0-18.62-5.76-18.62-26.24Z"/>
+</svg>

@@ -1,0 +1,17 @@
+.darkmode {
+    background-color: rgb(77, 77, 77);
+    color: white;
+}
+
+.button2 {
+    background-color: #fafafa; 
+    border: 2px solid rgb(107, 107, 107);
+    border-radius: 5px;
+    color: rgb(82, 82, 82);
+    padding: 10px 23px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 1px 10px 1px;
+  }
